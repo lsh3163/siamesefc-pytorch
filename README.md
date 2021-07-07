@@ -72,12 +72,12 @@ python generate_gif.py
 reimplementation.pth 가중치는 아래와 같은 성능을 냅니다. 
 - OPE : 0.612 (5 scale) / 논문 0.612
 
-![](https://github.com/lsh3163/siamesefc-pytorch/blob/master/OPE.png)
+![](https://github.com/lsh3163/siamesefc-pytorch/blob/main/OPE.png)
 
 - FPS : 0.56 (5 scale) / 논문 58 fps
 - Tracking example
 
-![](https://github.com/lsh3163/siamesefc-pytorch/blob/master/tracking_example.jpg)
+![](https://github.com/lsh3163/siamesefc-pytorch/blob/main/tracking_example.jpg)
 
 ## Hyper-Parameter Detail
 - tracker.py에서 하이퍼 파라미터를 수정할 수 있습니다. 
